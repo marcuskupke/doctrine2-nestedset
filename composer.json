@@ -1,5 +1,5 @@
 {
-    "name": "doctrine2-nestedset/",
+    "name": "cmatias/doctrine2-nestedset",
     "license": "LGPL",
     "type": "package",
     "description": "This Doctrine2 extension implements the nested set model (modified pre-order tree traversal algorithm) for Doctrine2.",
