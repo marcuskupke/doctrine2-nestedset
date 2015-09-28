@@ -6,6 +6,6 @@
     "version": "1.0",
     "source": {
         "url": "https://github.com/CMatias/doctrine2-nestedset",
-        "type": "vcs"
+        "type": "git"
     }
 }
