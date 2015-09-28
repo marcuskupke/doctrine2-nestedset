@@ -4,8 +4,8 @@
     "type": "package",
     "description": "This Doctrine2 extension implements the nested set model (modified pre-order tree traversal algorithm) for Doctrine2.",
     "version": "1.0",
-    "source": {
-        "url": "https://github.com/CMatias/doctrine2-nestedset",
+     "dist": {
+        "url": "git@github.com:CMatias/doctrine2-nestedset.git",
         "type": "git"
     }
 }
