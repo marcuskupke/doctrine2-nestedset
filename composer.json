@@ -1,14 +1,12 @@
 {
     "name": "nlzet/doctrine2-nestedset",
     "license": "LGPL",
-    "type": "package",
-    "description": "This Doctrine2 extension implements the nested set model (modified pre-order tree traversal algorithm) for Doctrine2.",
-    "version": "1.0",
-     "dist": {
-        "url": "git@github.com:nlzet/doctrine2-nestedset.git",
-        "type": "git"
-    },
+    "type": "library",
+    "description": "This Doctrine2 nested set extension.",
     "autoload": {
         "psr-0": { "DoctrineExtensions\\NestedSet\\": "lib/" }
+    },
+    "require": {
+        "php": ">=5.3.3"
     }
 }
