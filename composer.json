@@ -1,6 +1,6 @@
 {
     "name": "nlzet/doctrine2-nestedset",
-    "license": "LGPL",
+    "license": "LGPL-2.1-or-later",
     "type": "library",
     "description": "This Doctrine2 nested set extension.",
     "autoload": {
